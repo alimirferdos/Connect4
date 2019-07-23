@@ -1,11 +1,13 @@
 
 # Connect-4
 
-This is a simple implementation of the two-player connect-4 game in C++.
+This is a simple implementation of the two-player connect-4 game (also known as 4-in-a-row) in C++ as the mid-term project assignment for "Fundamentals of Computer Programming" (2016) course at K. N. Toosi University of Technology.
 
 ![](https://raw.githubusercontent.com/alimirferdos/Connect4/master/img/board1.PNG)
 
+
 When one of the users wins:
+
 ![](https://raw.githubusercontent.com/alimirferdos/Connect4/master/img/board2.PNG)
 
 
